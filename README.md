@@ -1,5 +1,6 @@
-My personal blog project
-========================
+# My personal blog project
+
+**THIS REPO MERGED INTO https://github.com/krymtkts/krymtkts.github.io.**
 
 My blog -> [krymtkts.github.io](https://krymtkts.github.io)
 
